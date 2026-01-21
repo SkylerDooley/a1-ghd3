@@ -1,4 +1,4 @@
-**Assignment 1		Skyler Dooley		01/27/2026**
+**Assignment 1	-	Skyler Dooley	-	01/27/2026**
 
 **Live Demo Link**
 https://skylerdooley.github.io/a1-ghd3/ 
