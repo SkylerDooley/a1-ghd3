@@ -8,9 +8,11 @@ https://skylerdooley.github.io/a1-ghd3/
 ![Image 1](/Picture1.png)
 
 ![Image 2](/Picture2.png)
+
 ↑ mouse is hovering over the red circle		
 
 ![Image 3](/Picture3.png)
+
 ↑ mouse has been moved off the circle
 
 **Description of Assignment**
